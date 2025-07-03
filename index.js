@@ -1,0 +1,1 @@
+// React entry point (to be replaced with App.jsx logic)
