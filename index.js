@@ -1,4 +1,4 @@
-// React entry point document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => {
   const contentDiv = document.getElementById('content');
 
   if (contentDiv) {
@@ -7,4 +7,3 @@
     console.error("❌ Element with ID 'content' not found.");
   }
 });
-(to be replaced with App.jsx logic)
