@@ -1,1 +1,10 @@
-// React entry point (to be replaced with App.jsx logic)
+// React entry point document.addEventListener('DOMContentLoaded', () => {
+  const contentDiv = document.getElementById('content');
+
+  if (contentDiv) {
+    contentDiv.innerHTML = '<h1>🚀 OCIDM GPT Assistant is Live!</h1>';
+  } else {
+    console.error("❌ Element with ID 'content' not found.");
+  }
+});
+(to be replaced with App.jsx logic)
